@@ -1,0 +1,4 @@
+El primer programa que vamos a escribir en Python es el clásico Hola
+Mundo, y en este lenguaje es tan simple como:
+
+CODE print "Hola Mundo"

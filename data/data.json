@@ -1,0 +1,9 @@
+{
+    "Orden": ["Introducción", "Mi primer programa en Python"],
+    "Introducción": {
+        "Orden": ["¿Qué es Python?", "¿Por qué Python?"],
+        "¿Qué es Python?": "introduction/whats",
+        "¿Por qué Python?": "introduction/why"
+    },
+    "Mi primer programa en Python": "first_script"
+}
